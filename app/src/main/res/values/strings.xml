@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IPCBound</string>
+    <string name="main_title">IPC Communication Using Bound Service</string>
+    <string name="response">Response: \n</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="dummy">---</string>
 </resources>
